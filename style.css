@@ -1,0 +1,20 @@
+*{
+    background-color: bisque;
+}
+
+h1{
+    color: black;
+    font-size: 5rem;
+}
+
+*{
+    text-align: center;
+}
+
+.my_image{
+    border: 10px solid black;
+}
+
+div{
+    color: black;
+}
